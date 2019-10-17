@@ -29,7 +29,7 @@ we can then decode the base64 representation: b'hello world \x81'
 ```
 ## Hashing
 
-he process of transforming data via a one-way function such that it is unrecoverable without an exhaustive search of all inputs. Hashing is used to store your passwords for websites in databases online, for example. This way, anyone with access to the database cannot see your password. Md5 is an example of a hashing algorithm (though its use is dying due to high possibility for collision)
+The process of transforming data via a one-way function such that it is unrecoverable without an exhaustive search of all inputs. Hashing is used to store your passwords for websites in databases online, for example. This way, anyone with access to the database cannot see your password. Md5 is an example of a hashing algorithm (though its use is dying due to high possibility for collision)
 Salting hashes are usually common to avoid similarities between databases with similar passwords, but this is only for unsalted hashes.
 
 ``` python
