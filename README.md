@@ -98,5 +98,5 @@ for i in range(256):
 ```
 > running the bit of code above will output all 256 possible keys for  *'jBZih4F3FJJ2qLddnR/Gvw=='*
 
-![](images/snapshotpythondecryption.png)
+<img src="images/snapshotpythondecryption.png" width="500">
 
