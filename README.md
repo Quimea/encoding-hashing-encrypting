@@ -1,6 +1,7 @@
 # Encoding, Hashing, and Encrypting
 Explanations of all three, with examples of each in Python.
 
+The original file of this code is : emklonowski(https://gist.github.com/emklonowski/5e7f3b56bacba63dca1c00792eec1793)
 
 ## Encoding
 The process of transforming data such that it is recoverable by anyone without a key
