@@ -1,5 +1,8 @@
 # make sure PyCrypto using pip
 
+import codecs
+from base64 import b64encode, b64decode
+
 from Crypto.Cipher import ARC4
 
 key = b'%'
