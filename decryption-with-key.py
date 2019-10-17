@@ -1,5 +1,6 @@
 import codecs
 from base64 import b64encode, b64decode
+from Crypto.Cipher import ARC4
 
 msg = b'jBZih4F3FJJ2qLddnR/Gvw=='
 key = b'%'
